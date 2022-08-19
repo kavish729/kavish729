@@ -4,23 +4,31 @@
 
 ## Glad to see you here! ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=kavish729.Clone-Pluralsight) [![GitHub followers](https://img.shields.io/github/followers/kavish729.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/kavish729?tab=followers)
 
-I am a Full-Stack Web Developer and I love Programming and traveling.
+<h4> I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.</h4>
 
-As a software engineer, I enjoy my obsession with attention to detail, <br />my unique love for making things that changes the world.
-<br />That's why I like to make things that make a difference.
+🌍  I'm based in Bhilwara, Rajasthan
 
-- Currently: Full Stack Web-Development from Masai School.
--            B.Tech from Techno India NJR Institute of Technoloy, Udaipur
+🌱 I’m currently learning Front End Web Development from Masai School
+
+💬 Ask me about JavaScript, React
+
+📫 Contact me at kavishchittora728@gmail.com
+
+💼 Portfolio https://kcportfolio.vercel.app/
+
+- B.Tech from Techno India NJR Institute of Technoloy, Udaipur
 
 # I'm Currently Learning <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="33"/>
 
 ## @Masai School
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=kavish729&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=kavish729&theme=react&hide_border=false)<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kavish729&show_icons=true&locale=en&layout=compact" alt="kavish729" /></p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kavish729&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kavish729&show_icons=true&locale=en" alt="kavish729" /></p>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kavish729)
