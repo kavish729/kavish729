@@ -31,4 +31,4 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kavish729&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kavish729)
+[![Kavish's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=kavish729&&theme=xcode)](https://github.com/kavish729)
